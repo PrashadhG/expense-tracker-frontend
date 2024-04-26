@@ -1,0 +1,16 @@
+.title{
+    display: flex;
+    height: 60px;
+    align-items: center;
+    flex-direction: row;
+    border-bottom: 2px solid brown;
+    padding-left: 20px;
+    background-color: white;
+    gap: 20px;
+}
+.logo-title{
+    font-size: 24px;
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    color: #00296B;
+}
