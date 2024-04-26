@@ -7,7 +7,7 @@ function Header() {
     return (
         <div className='title'>
             <img src={logo} width={40} height={40} />
-            <p className='logo-title'>Expense Tracker</p>
+            <p className='logo-title'>Expense Tracker 2.0</p>
         </div>
     )
 }
